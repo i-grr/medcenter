@@ -1,2 +1,2 @@
 # medcenter
-Simple responsive page of a medical clinic, developed based on the B7Web course.
+Simple responsive page layout, of a medical clinic, with CSS Flexbox and Semantic HTML. Developed based on the B7Web course.
